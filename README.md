@@ -19,7 +19,7 @@ Visual Studio Code
 JavaScript -->
 
 ### Connect with me:
-![Instagram](https://img.shields.io/badge/-instagram-fff?style=for-the-badge&logo=instagram&logoColor=B4068E)(https://www.instagram.com/ruvick_v)
+[![Instagram](https://img.shields.io/badge/-instagram-fff?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ruvick_v)
 
 
 
