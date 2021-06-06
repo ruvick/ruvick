@@ -11,7 +11,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-fff?style=for-the-badge&logo=CSS3&logoColor=B4068E)
 ![Scss](https://img.shields.io/badge/-Scss-fff?style=for-the-badge&logo=Scss&logoColor=B4068E)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=for-the-badge&logo=JavaScript&logoColor=B4068E)
-![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-fff?style=for-the-badge&logo=VisualStudioCode&logoColor=B4068E)
+![VSCode](https://img.shields.io/badge/-VSCode-fff?style=for-the-badge&logo=VSCode&logoColor=B4068E)
 
 ### Connect with me:
 [![Instagram](https://img.shields.io/badge/-instagram-fff?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ruvick_v)
