@@ -19,7 +19,7 @@ Visual Studio Code
 JavaScript -->
 
 ### Connect with me:
-[<img align="left" alt="ruvick | Instagram" width="22px" src="https:cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] [Instagram]
+[<img align="left" alt="ruvick | Instagram" width="22px" src="https://www.instagram.com/ruvick_v" />] [Instagram]
 
 
 
