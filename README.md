@@ -7,6 +7,7 @@
 - 🥅 I am constantly learning new technologies
 
 ### Languages and Tools:
+![HTML5](https://img.shields.io/badge/-HTML5-fff?style=for-the-badge&logo=HTML5&logoColor=B4068E)
 
 <!-- HTML5
 
