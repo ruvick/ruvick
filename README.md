@@ -8,16 +8,10 @@
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-fff?style=for-the-badge&logo=HTML5&logoColor=B4068E)
-
-<!-- HTML5
-
-CSS3
-
-Sass
-
-Visual Studio Code
-
-JavaScript -->
+![CSS3](https://img.shields.io/badge/-CSS3-fff?style=for-the-badge&logo=CSS3&logoColor=B4068E)
+![Scss](https://img.shields.io/badge/-Scss-fff?style=for-the-badge&logo=Scss&logoColor=B4068E)
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=for-the-badge&logo=JavaScript&logoColor=B4068E)
+![Visual Studio Code](https://img.shields.io/badge/-Visual Studio Code-fff?style=for-the-badge&logo=Visual Studio Code&logoColor=B4068E)
 
 ### Connect with me:
 [![Instagram](https://img.shields.io/badge/-instagram-fff?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ruvick_v)
