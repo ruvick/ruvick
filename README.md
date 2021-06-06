@@ -19,7 +19,7 @@ Visual Studio Code
 JavaScript -->
 
 ### Connect with me:
-[<img align="left" alt="ruvick | Instagram" width="22px" src="https://www.instagram.com/ruvick_v" />] [Instagram]
+![Instagram](https://img.shields.io/badge/ Instagram fff?style=social&logo=Instagram)
 
 
 
