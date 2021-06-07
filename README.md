@@ -9,8 +9,8 @@
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-fff?style=for-the-badge&logo=HTML5&logoColor=B4068E)
 ![CSS3](https://img.shields.io/badge/-CSS3-fff?style=for-the-badge&logo=CSS3&logoColor=B4068E)
-![Scss](https://img.shields.io/badge/-Scss-fff?style=for-the-badge&logo=Scss&logoColor=B4068E)
-![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=for-the-badge&logo=JavaScript&logoColor=B4068E)
+![Sass](https://img.shields.io/badge/-Scss-fff?style=for-the-badge&logo=Scss&logoColor=B4068E)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![VSCode](https://img.shields.io/badge/-VSCode-fff?style=for-the-badge&logo=VSCode&logoColor=B4068E)
 
 ### Connect with me:
