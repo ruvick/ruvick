@@ -7,11 +7,11 @@
 - 🥅 I am constantly learning new technologies
 
 ### Languages and Tools:
-![HTML5](https://img.shields.io/badge/-HTML5-fff?style=for-the-badge&logo=HTML5&logoColor=B4068E)
-![CSS3](https://img.shields.io/badge/-CSS3-fff?style=for-the-badge&logo=CSS3&logoColor=B4068E)
-![Sass](https://img.shields.io/badge/-Scss-fff?style=for-the-badge&logo=Scss&logoColor=B4068E)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
+![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![VSCode](https://img.shields.io/badge/-VSCode-fff?style=for-the-badge&logo=VSCode&logoColor=B4068E)
+![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VSCode)
 
 ### Connect with me:
 [![Instagram](https://img.shields.io/badge/-instagram-fff?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ruvick_v)
