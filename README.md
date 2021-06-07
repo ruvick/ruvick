@@ -14,7 +14,9 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VSCode)
 
 ### Connect with me:
-[![Instagram](https://img.shields.io/badge/-instagram-fff?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ruvick_v)
+[![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/ruvick_v)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/ruvick_v)
+[![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Email)](rudikov-web@ya.ru)
 
 
 
