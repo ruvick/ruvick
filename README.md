@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Valerii
+### Hi there 👋, I'm Valeriij
 
 ## I'm FrontEnd Developer
 
@@ -15,7 +15,7 @@
 
 ### Connect with me:
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/ruvick_v)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/ruvick_v)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/RuvickV)
 
 
 <!--
