@@ -1,54 +1,42 @@
 ### Hi there 👋, I'm Valeriij
  
 ## I'm FrontEnd Developer 
-Я занимаюсь разработкой сайтов!   
- 
-Чем я могу быть вам полезен
-- Верстка сайтов чистым кодом
-- Интеграция сайтов в систему управления Wordpress
-- Доработка сайтов, оптимизация скорости загрузки и т.д.
+I am developing websites!
 
-Разработка сайтов под ключ
-- Landing Page (одностраничный сайт)
-- Корпоративный сайт (многостраничный сайт)
-- Интернет-магазин (продающий - многостраничный сайт)
-- Интернет-магазин с личным кабинетом
-и другие разновидности сайтов.
+How can I help you
 
-Профессиональные навыки
+- Website layout with clean code
+- Integration of sites into the Wordpress management system
+- Refinement of sites, optimization of download speed, etc.
+
+Turnkey website development
+- Landing Page (single page site)
+- Corporate site (multi-page site)
+- Online store (selling - multi-page site)
+- Online store with a personal account and other types of sites.
+
+Professional skills
 - HTML5, CSS3, Sass/Scss
-- Адаптивная верстка сайтов
+- Responsive website layout
 - Bootstrap, Flexbox, Grid
-- Кроссбраузерность (https://blisk.io/)
-- Валидный код (https://validator.w3.org/)
-- Оптимизация сайта на GPSI (https://developers.google.com/speed/pagespeed/insights/)
-- Верстка сайтов по методологии БЭМ
+- Cross browser (https://blisk.io/)
+- Valid code (https://validator.w3.org/)
+- Website optimization on GPSI (https://developers.google.com/speed/pagespeed/insights/)
+- BEM website layout
 - Git, GitHub
 - Gulp
-- Pixel Perfect
+- Pixel perfect
 - JavaScript, jQuery
 - PHP
-- Система управления сайтом WordPress
+- WordPress content management system
 
-Преимущества работы со мной:
-- Сайт всегда соответствует макету.
-Расхождение с макетом не более 3px.
-
-- Всегда в срок.
-Не нарушаю сроков и всегда сдаю работу вовремя.
-
-- Безопасная верстка.
-При изменении, дополнении контента, замены картинок, увеличении пунктов меню и т.д. Сайт не ломается, отображается так же корректно.
-
-- Адаптивная верстка под все мобильные устройства.
-Резиновая адаптивная верстка. Корректное отображение на любом разрешении.
-Сайт отображается хорошо на любом разрешении, не только на основных.
-
-- Оптимизация и сжатие картинок.
-Уменьшенный вес картинок. Картинки на сайте в двух вариантах: стандартном и webp.
-
-- Удобство пользования и корректное отображение доп. модулей.
-При открытии модальных окон, мобильных меню и т.д., сайт не дергается, контент не скролится, появление плавное и корректное;
+Benefits of working with me:
+- The site always matches the layout. The discrepancy with the layout is no more than 3px.
+- Always on time. I don't break deadlines and always deliver my work on time.
+- Safe layout. When changing, adding content, replacing pictures, increasing menu items, etc. The site does not break, it is displayed just as correctly.
+- Responsive layout for all mobile devices. Rubber adaptive layout. Correct display at any resolution. The site displays well on any resolution, not only on the main ones.
+- Image optimization and compression. Reduced image weight. Pictures on the site in two versions: standard and webp.
+- Ease of use and correct display of add. modules. When opening modal windows, mobile menus, etc., the site does not twitch, the content does not scroll, the appearance is smooth and correct;
 <!-- - 💪 I like to write code
 - 🎉 I love outdoor activities and swimming
 - 🥅 I am constantly learning new technologies
